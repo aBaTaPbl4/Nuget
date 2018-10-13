@@ -11,7 +11,7 @@
     <PackageTags>bot builder storage</PackageTags>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>nmulabs.snk</AssemblyOriginatorKeyFile>
-    <PackageProjectUrl>https://github.com/aBaTaPbl4/Nuget/tree/master/Bot.Builder.FileSystemStorage</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/aBaTaPbl4/Nuget/wiki/Quik-Start-Bot.Builder.FileSystemStorage</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
