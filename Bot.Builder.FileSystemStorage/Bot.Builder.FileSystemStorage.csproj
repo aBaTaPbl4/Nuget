@@ -12,6 +12,7 @@
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>nmulabs.snk</AssemblyOriginatorKeyFile>
     <PackageProjectUrl>https://github.com/aBaTaPbl4/Nuget/wiki/Quik-Start-Bot.Builder.FileSystemStorage</PackageProjectUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
