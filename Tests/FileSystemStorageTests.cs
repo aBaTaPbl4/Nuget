@@ -8,7 +8,7 @@ namespace UnitTests.Bot.NoIsolation
 {
     using System.IO;
     using System.Threading;
-    using global::Bot.Builder.FileSystemStorage.Microsoft.Bot.Builder;
+    using global::Bot.Builder.FileSystemStorage;
     using NUnit.Framework;
 
     public class Obj1
