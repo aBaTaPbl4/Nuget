@@ -6,7 +6,7 @@
     <Description>The Bot framework v4 extension. Allows to store bot state in the file system</Description>
     <Copyright>no copyrights absolutely free</Copyright>
     <PackageLicenseUrl>no license</PackageLicenseUrl>
-    <PackageReleaseNotes>First version. Seems it's work</PackageReleaseNotes>
+    <PackageReleaseNotes>First version. Seems it's working</PackageReleaseNotes>
     <Company>aBaTaPbl4 ltd corpration limited</Company>
     <PackageTags>bot builder storage</PackageTags>
     <SignAssembly>true</SignAssembly>
